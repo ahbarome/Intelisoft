@@ -1,0 +1,13 @@
+C:\BMS.Connectivity.Application\BMS.Manager\obj\Debug\Interop.zkemkeeper.dll
+C:\BMS.Connectivity.Application\BMS.Manager\obj\Debug\BMS.Manager.csproj.ResolveComReference.cache
+C:\BMS.Connectivity.Application\BMS.Manager\bin\Debug\BMS.Manager.exe
+C:\BMS.Connectivity.Application\BMS.Manager\bin\Debug\BMS.Manager.pdb
+C:\BMS.Connectivity.Application\BMS.Manager\bin\Debug\Interop.zkemkeeper.dll
+C:\BMS.Connectivity.Application\BMS.Manager\obj\Debug\ResolveAssemblyReference.cache
+C:\BMS.Connectivity.Application\BMS.Manager\obj\Debug\BMS.Manager.Manager.resources
+C:\BMS.Connectivity.Application\BMS.Manager\obj\Debug\BMS.Manager.csproj.GenerateResource.Cache
+C:\BMS.Connectivity.Application\BMS.Manager\obj\Debug\BMS.Manager.exe
+C:\BMS.Connectivity.Application\BMS.Manager\obj\Debug\BMS.Manager.pdb
+C:\BMS.Connectivity.Application\BMS.Manager\bin\Debug\BMS.Manager.exe.config
+C:\BMS.Connectivity.Application\BMS.Manager\bin\Debug\BMS.BL.dll
+C:\BMS.Connectivity.Application\BMS.Manager\bin\Debug\BMS.BL.pdb

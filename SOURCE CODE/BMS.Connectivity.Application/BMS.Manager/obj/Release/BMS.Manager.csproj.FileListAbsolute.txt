@@ -1,0 +1,10 @@
+C:\Users\t-agubar\Downloads\Communication Protocol SDK(32Bit Ver6.2.4.1)\Communication Protocol SDK(32Bit Ver6.2.4.1)\Demo\C#\Black&White\RTEvents\obj\Release\ResolveAssemblyReference.cache
+C:\Users\t-agubar\Downloads\Communication Protocol SDK(32Bit Ver6.2.4.1)\Communication Protocol SDK(32Bit Ver6.2.4.1)\Demo\C#\Black&White\RTEvents\obj\Release\Interop.zkemkeeper.dll
+C:\Users\t-agubar\Downloads\Communication Protocol SDK(32Bit Ver6.2.4.1)\Communication Protocol SDK(32Bit Ver6.2.4.1)\Demo\C#\Black&White\RTEvents\obj\Release\BMS.Manager.csproj.ResolveComReference.cache
+C:\Users\t-agubar\Downloads\Communication Protocol SDK(32Bit Ver6.2.4.1)\Communication Protocol SDK(32Bit Ver6.2.4.1)\Demo\C#\Black&White\RTEvents\obj\Release\BMS.Manager.csproj.GenerateResource.Cache
+C:\Users\t-agubar\Downloads\Communication Protocol SDK(32Bit Ver6.2.4.1)\Communication Protocol SDK(32Bit Ver6.2.4.1)\Demo\C#\Black&White\RTEvents\bin\Release\BMS.Manager.exe
+C:\Users\t-agubar\Downloads\Communication Protocol SDK(32Bit Ver6.2.4.1)\Communication Protocol SDK(32Bit Ver6.2.4.1)\Demo\C#\Black&White\RTEvents\bin\Release\BMS.Manager.pdb
+C:\Users\t-agubar\Downloads\Communication Protocol SDK(32Bit Ver6.2.4.1)\Communication Protocol SDK(32Bit Ver6.2.4.1)\Demo\C#\Black&White\RTEvents\bin\Release\Interop.zkemkeeper.dll
+C:\Users\t-agubar\Downloads\Communication Protocol SDK(32Bit Ver6.2.4.1)\Communication Protocol SDK(32Bit Ver6.2.4.1)\Demo\C#\Black&White\RTEvents\obj\Release\BMS.Manager.exe
+C:\Users\t-agubar\Downloads\Communication Protocol SDK(32Bit Ver6.2.4.1)\Communication Protocol SDK(32Bit Ver6.2.4.1)\Demo\C#\Black&White\RTEvents\obj\Release\BMS.Manager.pdb
+C:\Users\t-agubar\Downloads\Communication Protocol SDK(32Bit Ver6.2.4.1)\Communication Protocol SDK(32Bit Ver6.2.4.1)\Demo\C#\Black&White\RTEvents\obj\Release\BMS.Manager.Manager.resources
