@@ -1,0 +1,13 @@
+C:\Users\PERSONAL\BMS.APPLICATION\bin\Release\RTEvents.exe
+C:\Users\PERSONAL\BMS.APPLICATION\bin\Release\RTEvents.pdb
+C:\Users\PERSONAL\BMS.APPLICATION\bin\Release\Interop.zkemkeeper.dll
+C:\Users\PERSONAL\BMS.APPLICATION\bin\Release\AxInterop.zkemkeeper.dll
+C:\Users\PERSONAL\BMS.APPLICATION\obj\Release\ResolveAssemblyReference.cache
+C:\Users\PERSONAL\BMS.APPLICATION\obj\Release\Interop.zkemkeeper.dll
+C:\Users\PERSONAL\BMS.APPLICATION\obj\Release\AxInterop.zkemkeeper.dll
+C:\Users\PERSONAL\BMS.APPLICATION\obj\Release\BMS.APPLICATION.csproj.ResolveComReference.cache
+C:\Users\PERSONAL\BMS.APPLICATION\obj\Release\RTEvents.ConnectivityApplication.resources
+C:\Users\PERSONAL\BMS.APPLICATION\obj\Release\RTEvents.Properties.Resources.resources
+C:\Users\PERSONAL\BMS.APPLICATION\obj\Release\BMS.APPLICATION.csproj.GenerateResource.Cache
+C:\Users\PERSONAL\BMS.APPLICATION\obj\Release\RTEvents.exe
+C:\Users\PERSONAL\BMS.APPLICATION\obj\Release\RTEvents.pdb
