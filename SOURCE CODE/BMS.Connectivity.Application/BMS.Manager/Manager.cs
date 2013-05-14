@@ -72,6 +72,9 @@ namespace BMS.Manager
         //when you are using the tcp/ip communication,you can distinguish different devices by their IP address.
         private void btnConnect_Click(object sender, EventArgs e)
         {
+            List<string> tmp = new List<string>();
+            business.CanEntryFunctionary("", out tmp);
+
             if (txtIP.Text.Trim() == "" || txtPort.Text.Trim() == "")
             {
                 MessageBox.Show("IP and Port cannot be null", "Error");
@@ -164,7 +167,7 @@ namespace BMS.Manager
         {
             List<string> messages = null;
 
-            canEntry = business.CanEntryPerson(sEnrollNumber, out messages);
+            canEntry = business.CanEntryFunctionary(sEnrollNumber, out messages) == true ? true: business.CanEntryPerson(sEnrollNumber, out messages) ;
 
             lbRTShow.Items.Add("■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■");
             lbRTShow.Items.Add("BMS OnAttTrasactionEx Has been Triggered,Verified OK");
